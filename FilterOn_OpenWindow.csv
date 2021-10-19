@@ -1,6 +1,4 @@
----------------------------------
-  Start New Data Record for Snoopy.Ms.T
-   #,MM:DD:YYYY,HH:MM:SS,PM1.0,PM2.5,PM10.0,TVOC(ppb),CO2(ppm)
+#,MM:DD:YYYY,HH:MM:SS,PM1.0,PM2.5,PM10.0,TVOC(ppb),CO2(ppm)
  1    , 9/12/2021, 3:33:45 PM,   4,  14,  14,    0,  400
  2    , 9/12/2021, 3:34: 0 PM,   7,  19,  22,  916,  400
  3    , 9/12/2021, 3:35: 0 PM,   4,   5,   5,   80,  400
