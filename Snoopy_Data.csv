@@ -1,0 +1,9 @@
+School,Bedroom,Restroom,Window Open?,Trees outside?,Parking Lot/Street close?,Door Open?,Air Purifier On?,People in Room?,Incense Burnt?,Chemicals Sprayed?,Avg Pollen/Dust 1.0,Avg Pollen/Dust 2.5,Avg Pollen/Dust 10,Avg CO2,Avg Level of TVOC
+1,0,0,1,1,0,0,1,1,0,0,8,10,13,411,2142
+1,0,0,1,1,0,0,1,0,0,0,7,9,12,400,153
+1,0,0,0,1,0,0,0,0,0,0,5,6,6,400,623
+0,1,0,0,1,1,0,0,1,0,0,0,0,1,1407,1029
+0,1,0,1,1,1,1,0,1,0,0,11,16,19,400,22
+0,1,0,1,1,1,1,1,1,0,0,3,4,5,400,0
+0,0,1,0,1,1,0,0,0,1,0,295,2139,3273,2868,3782
+0,0,1,0,1,1,0,0,0,0,1,4,10,26,1427,6036
